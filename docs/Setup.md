@@ -16,7 +16,7 @@ In other words. If you just want the reload feature when working with .html file
 
 1. Install [VS Code](https://code.visualstudio.com/download) from Microsoft. <sup>(code editor)</sup>
 2. Install VS Code [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). <sup>(extension to code editor)</sup>
-3. Install the browser add-on; [Chrome](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj/) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/).
+3. Install the browser add-on; [Chrome](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/).
 4. Install and run a server on your machine: [Servers and Frameworks](#servers-and-frameworks)
 5. Place your app on the server you want to use and open your project there.
 6. Enter the neccesary fields (screenshot below)
@@ -32,7 +32,7 @@ In other words. If you just want the reload feature when working with .html file
 ### Proxy Setup
 1. Install [VS Code](https://code.visualstudio.com/download) from Microsoft. <sup>(code editor)</sup>
 2. Install VS Code [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). <sup>(extension to code editor)</sup>
-3. Install the browser add-on; [Chrome](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj/) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/).
+3. Install the browser add-on; [Chrome](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/).
 4. Install and run a server on your machine: [Servers and Frameworks](#servers-and-frameworks)
 5. Place your app on the server you want to use and open your project there.
 6. Enter the neccesary values (code block below)
